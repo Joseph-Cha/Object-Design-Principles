@@ -1,0 +1,90 @@
+[submodule "lecture_src/02-01"]
+	path = lecture_src/02-01
+	url = https://github.com/eternity-oop/object-principle-02-01
+[submodule "lecture_src/02-02"]
+	path = lecture_src/02-02
+	url = https://github.com/eternity-oop/object-principle-02-02
+[submodule "lecture_src/03-02"]
+	path = lecture_src/03-02
+	url = https://github.com/eternity-oop/object-principle-03-02
+[submodule "lecture_src/04-01"]
+	path = lecture_src/04-01
+	url = https://github.com/eternity-oop/object-principle-04-01
+[submodule "lecture_src/04-02"]
+	path = lecture_src/04-02
+	url = https://github.com/eternity-oop/object-principle-04-02
+[submodule "lecture_src/04-03"]
+	path = lecture_src/04-03
+	url = https://github.com/eternity-oop/object-principle-04-03
+[submodule "lecture_src/05-01"]
+	path = lecture_src/05-01
+	url = https://github.com/eternity-oop/object-principle-05-01
+[submodule "lecture_src/05-02"]
+	path = lecture_src/05-02
+	url = https://github.com/eternity-oop/object-principle-05-02
+[submodule "lecture_src/05-03"]
+	path = lecture_src/05-03
+	url = https://github.com/eternity-oop/object-principle-05-03
+[submodule "lecture_src/05-04"]
+	path = lecture_src/05-04
+	url = https://github.com/eternity-oop/object-principle-05-04
+[submodule "lecture_src/05-05"]
+	path = lecture_src/05-05
+	url = https://github.com/eternity-oop/object-principle-05-05
+[submodule "lecture_src/06-01"]
+	path = lecture_src/06-01
+	url = https://github.com/eternity-oop/object-principle-06-01
+[submodule "lecture_src/06-02"]
+	path = lecture_src/06-02
+	url = https://github.com/eternity-oop/object-principle-06-02
+[submodule "lecture_src/07-01"]
+	path = lecture_src/07-01
+	url = https://github.com/eternity-oop/object-principle-07-01
+[submodule "lecture_src/07-02"]
+	path = lecture_src/07-02
+	url = https://github.com/eternity-oop/object-principle-07-02
+[submodule "lecture_src/07-03"]
+	path = lecture_src/07-03
+	url = https://github.com/eternity-oop/object-principle-07-03
+[submodule "lecture_src/07-04"]
+	path = lecture_src/07-04
+	url = https://github.com/eternity-oop/object-principle-07-04
+[submodule "lecture_src/07-05"]
+	path = lecture_src/07-05
+	url = https://github.com/eternity-oop/object-principle-07-05
+[submodule "lecture_src/08-01"]
+	path = lecture_src/08-01
+	url = https://github.com/eternity-oop/object-principle-08-01
+[submodule "lecture_src/08-02"]
+	path = lecture_src/08-02
+	url = https://github.com/eternity-oop/object-principle-08-02
+[submodule "lecture_src/08-03"]
+	path = lecture_src/08-03
+	url = https://github.com/eternity-oop/object-principle-08-03
+[submodule "lecture_src/08-04"]
+	path = lecture_src/08-04
+	url = https://github.com/eternity-oop/object-principle-08-04
+[submodule "lecture_src/08-05"]
+	path = lecture_src/08-05
+	url = https://github.com/eternity-oop/object-principle-08-05
+[submodule "lecture_src/08-06"]
+	path = lecture_src/08-06
+	url = https://github.com/eternity-oop/object-principle-08-06
+[submodule "lecture_src/09-01"]
+	path = lecture_src/09-01
+	url = https://github.com/eternity-oop/object-principle-09-01
+[submodule "lecture_src/09-02"]
+	path = lecture_src/09-02
+	url = https://github.com/eternity-oop/object-principle-09-02
+[submodule "lecture_src/09-03"]
+	path = lecture_src/09-03
+	url = https://github.com/eternity-oop/object-principle-09-03
+[submodule "lecture_src/09-04"]
+	path = lecture_src/09-04
+	url = https://github.com/eternity-oop/object-principle-09-04
+[submodule "lecture_src/09-05"]
+	path = lecture_src/09-05
+	url = https://github.com/eternity-oop/object-principle-09-05
+[submodule "lecture_src/09-06"]
+	path = lecture_src/09-06
+	url = https://github.com/eternity-oop/object-principle-09-06
